@@ -12,6 +12,10 @@ You may also find my [FRC3DP](https://github.com/RJWoodhead/FRC3DP) repo of inte
 
 [Stock Cutter/Facer](StockCutter.md) - a Fusion 360 project that uses the Carvera to cut and face bar stock.
 
+[![](Images/IMG_3368.jpg)](CFSSpool.md)
+
+[SDS Bearing Block CFS Spool](CFSSpool.md) - a simple add-on for the popular SDS Elevator Bearing Block that lets it double as a mount for a constant force spring.
+
 [![](Images/BeltClamp.jpg)](BeltClamp.md)
 
 [In-tube Belt Clamp](BeltClamp.md) - a HTD5 15mm Belt Clamp/Tensioner that fits completely inside standard WCP [1/16-wall 2x1 punched tubing](https://wcproducts.com/collections/systems-structure/products/punched-tubing) often used for constructing elevators.
