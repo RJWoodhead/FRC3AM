@@ -16,6 +16,10 @@ You may also find my [FRC3DP](https://github.com/RJWoodhead/FRC3DP) repo of inte
 
 [SDS Bearing Block CFS Spool](CFSSpool.md) - a simple add-on for the popular SDS Elevator Bearing Block that lets it double as a mount for a constant force spring.
 
+[![](Images/IMG_3382.jpg)](SDSIdler.md)
+
+[SDS Idler Tube Plug](SDSIdler.md) -an iteration of the humble SDS Tube Plug that adds a mount for a belt idler, just the thing for belt-in-tube elevators.
+
 [![](Images/BeltClamp.jpg)](BeltClamp.md)
 
 [In-tube Belt Clamp](BeltClamp.md) - a HTD5 15mm Belt Clamp/Tensioner that fits completely inside standard WCP [1/16-wall 2x1 punched tubing](https://wcproducts.com/collections/systems-structure/products/punched-tubing) often used for constructing elevators.

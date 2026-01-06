@@ -1,6 +1,6 @@
 ![](Images/IMG_3368.jpg)
 
-This is a very simple design that adapts the common SDS Elevator Bearing Block so that it can also be used as a mount for a constant force spring. The [Fusion Project](Files/CFS%20Bearing%20Block%20Spool.f3z) is parametric and has size values for some common constant force springs; you can also adjust the thickness of the plate being used as stock (depends on the spring size).
+This is a very simple design that adapts the common [SDS Elevator Bearing Block](https://www.swervedrivespecialties.com/products/billet-elevator-bearing-block) so that it can also be used as a mount for a constant force spring. The [Fusion Project](Files/CFS%20Bearing%20Block%20Spool.f3z) is parametric and has size values for some common constant force springs; you can also adjust the thickness of the plate being used as stock (depends on the spring size).
 
 ![](Images/CFSMount.jpg)
 

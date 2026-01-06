@@ -7,10 +7,14 @@ I am only listing combinations of tool and operation that I am commonly using, a
 Available tools (and my standard slots for them in the Carvera):
 
 1 : [Spiral O Metal 3.175*12mm](#spiral-o-metal-317512mm)
+
 2 : [Spiral O Metal 3.175*25mm](#spiral-o-metal-317525mm)
-5 : [Spiral O Metal 2*12mm](#spiral-o-metal-212mm)
+
 3 : [1/8" Shank Chamfering Bit](#18-shank-chamfering-bit)
+
 4 : [Spiral O Metal 3.175*10mm Ball Nose](#spiral-o-metal-317510mm-ball-nose)
+
+5 : [Spiral O Metal 2*12mm](#spiral-o-metal-212mm)
 
 ## Spiral O Metal 3.175*12mm
 
